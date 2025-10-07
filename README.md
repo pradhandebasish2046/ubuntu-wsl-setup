@@ -3,7 +3,7 @@
 ### Install VS Code for Windows, select all the check boxes, and then install WSL, Remote Explorer
 ### write code . In the Ubuntu terminal to open VS Code
 ### Write commands below
-  #### sudo apt update
+  sudo apt update
   #### sudo apt-get install python3-pip
   #### sudo apt install pipx -y
   #### pipx ensurepath
